@@ -150,4 +150,4 @@ The tools used in this project include:
 - Python 3.8.2, Tableau
 
 ## Authors
-- Abhishek Chowdhury - [Github Profile](https://github.com/AbhishekGit-hash)
+- Lingeshwaran - [Github Profile](https://github.com/LingeshDev)
